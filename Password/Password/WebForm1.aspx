@@ -15,7 +15,7 @@
         <br />
         <asp:TextBox ID="TextBox2" runat="server"></asp:TextBox>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <asp:Button ID="Button1" runat="server" onclick="Button1_Click" Text="MD5" />
+        <asp:Button ID="Button1" runat="server" onclick="Button1_Click" Text="Convert" />
     
         <br />
         <br />
